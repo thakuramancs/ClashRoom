@@ -1,0 +1,2 @@
+ALTER TABLE matches 
+ADD COLUMN players INT NOT NULL DEFAULT 0; 
